@@ -18,4 +18,4 @@ conda activate ./envs
 
 ## Reference -
 
-* [Conda env commands](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#
+* [Conda env commands](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#)
